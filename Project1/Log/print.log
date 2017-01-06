@@ -1,0 +1,14 @@
+NOTE: PROCEDURE PRINTTO処理(合計処理時間):
+      処理時間           0.02 秒
+      CPU時間            0.01 秒
+      
+
+598  
+599  proc print data = sashelp.class ;
+600  run ;
+
+NOTE: データセットSASHELP.CLASSから19オブザベーションを読み込みました。 
+NOTE: PROCEDURE PRINT処理(合計処理時間):
+      処理時間           0.00 秒
+      CPU時間            0.00 秒
+      
